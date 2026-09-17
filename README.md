@@ -19,4 +19,6 @@ AR.js Studio 專案的工作資料夾，用於保存 3D 模型與後續匯出的
 
 發布後，以手機瀏覽器開啟網站、允許相機，並將鏡頭對準辨識圖。執行時需要網路以載入外部 JavaScript。
 
-GitHub Pages 尚未啟用：目前 GitHub 方案不支援此私人儲存庫的 Pages，待確認是否公開儲存庫。
+網站：https://5219rayhsu.github.io/ar-js-studio/
+
+GitHub Pages 從 `main` 分支根目錄發布，儲存庫與網站均為公開。
