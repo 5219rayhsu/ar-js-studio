@@ -14,7 +14,6 @@ AR.js Studio 專案的工作資料夾，用於保存 3D 模型與後續匯出的
 ## AR.js Studio 匯出
 
 - `index.html`、`assets/asset.glb`、`assets/marker.patt`：Studio 匯出的網頁與素材。
-- `exports/ar.zip`：Studio 原始下載套件。
 - `assets/marker.png`：Studio 預設辨識圖，供列印或在另一個螢幕顯示。
 
 發布後，以手機瀏覽器開啟網站、允許相機，並將鏡頭對準辨識圖。執行時需要網路以載入外部 JavaScript。
